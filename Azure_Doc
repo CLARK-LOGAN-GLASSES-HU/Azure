@@ -7,6 +7,8 @@ Azure资料的Git网站 https://github.com/MicrosoftLearning/20533-ImplementingM
 
 Powershell https://docs.microsoft.com/zh-cn/azure/virtual-machines/windows/quick-create-portal
 
+IIS Install-WindowsFeature -name Web-Server -IncludeManagementTools
+
 计算机管理 compmgmt.msc
 
 ## 云计算解决方案
