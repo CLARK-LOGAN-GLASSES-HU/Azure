@@ -9,6 +9,8 @@ Powershell https://docs.microsoft.com/zh-cn/azure/virtual-machines/windows/quick
 
 IIS Install-WindowsFeature -name Web-Server -IncludeManagementTools
 
+NLB操作步骤 https://docs.microsoft.com/zh-cn/azure/load-balancer/quickstart-create-basic-load-balancer-portal
+
 计算机管理 compmgmt.msc
 
 ## 云计算解决方案
